@@ -16,10 +16,6 @@ document.addEventListener("DOMContentLoaded", function () {
             "image": "assets/images/slideshow/slide4.png",
             "tagLine": "Autocollants <span>avec découpe laser sur mesure</span>",
         },
-        {
-            "image": "assets/images/slideshow/slide4.png",
-            "tagLine": "Autocollants <span>avec découpe laser sur mesure</span>",
-        },
     ];
 
     let currentSlideIndex = 0;
